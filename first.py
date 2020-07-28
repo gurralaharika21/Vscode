@@ -7,6 +7,6 @@
 # s = str1[::-1]  
 # y = s.strip() 
 # print(y) 
-x = 3.5
+x = 3.5000
 # print(double(3.5))
 print(round(x,2))
